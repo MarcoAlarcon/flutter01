@@ -1,16 +1,10 @@
-# cupertino_studies
+# Cupertino_studies
 
-A new Flutter project.
+This is my first project in flutter, I used the cupertino button and cupertino theme to understand a littble better how it works.
 
-## Getting Started
+The project itself it's simple, a task app, that has a rating and a progress bar to how many times you have that task.
 
-This project is a starting point for a Flutter application.
+Here's a short GIF of how it works:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![AppGIF](https://imgur.com/a/AD24z8y)
