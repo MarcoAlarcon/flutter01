@@ -7,4 +7,4 @@ The project itself it's simple, a task app, that has a rating and a progress bar
 Here's a short GIF of how it works:
 
 
-![AppGIF](https://imgur.com/a/AD24z8y)
+![AppGIF](https://github.com/MarcoAlarcon/flutter01/blob/master/demonstrationVideo.gif)
